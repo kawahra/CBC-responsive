@@ -30,12 +30,74 @@ h2 {
 
 header {
 }
+.header__contents {
+}
+.header__contents--text {
+}
+.header__contents--logo {
+}
+.header__image {
+}
 
 nav {
+}
+nav ul {
+}
+nav ul li {
+}
+nav ul li a {
 }
 
 footer {
 }
+.footer {
+}
+.footer h2 {
+}
+.footer__image {
+}
+.footer__column {
+}
+.footer__column--form {
+}
+.footer__column--form form {
+}
+.footer__column--form form p {
+}
+.footer__column--form form input[type="text"] {
+}
+.footer__column--form form textarea {
+}
+.footer__column--map {
+}
+.footer__copy {
+}
 
 main {
+}
+.menu {
+}
+.menu__content {
+}
+.menu__content--text {
+}
+.menu__content--text h1 {
+}
+.menu__content--text p {
+}
+.menu__content--image {
+}
+.vision {
+}
+.vision__image {
+}
+.vision__image h1 {
+}
+.vision__image p {
+}
+.vision__column {
+}
+.vision__column--item {
+}
+.vision__column--item-img {
 }
